@@ -1,0 +1,8 @@
+[INFO ] 2024-10-23 10:05:24.992 [main] Logs - {WebDriverFactory} chrome
+[INFO ] 2024-10-23 10:05:27.150 [main] Logs - GetWebDriverSession is Sucess
+[INFO ] 2024-10-23 10:05:44.077 [main] Logs - launchSession is success
+[INFO ] 2024-10-23 10:06:00.291 [main] Logs - closeSession is Sucess
+[INFO ] 2024-10-23 10:06:00.298 [main] Logs - {WebDriverFactory} chrome
+[INFO ] 2024-10-23 10:06:01.360 [main] Logs - GetWebDriverSession is Sucess
+[INFO ] 2024-10-23 10:06:10.496 [main] Logs - launchSession is success
+[INFO ] 2024-10-23 10:06:22.064 [main] Logs - closeSession is Sucess
